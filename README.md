@@ -1,2 +1,2 @@
 # KNeighbors_Book_Recommendation
-Recommending similar books using K-neighbors 
+Uses K-neighbors to recommend similar books based on user ratings
